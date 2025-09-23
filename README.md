@@ -1,4 +1,4 @@
-# 👨‍💻 Desarrollador Frontend | Estudiante de Ciberseguridad e Ingeniería Informática
+# Desarrollador Frontend | Estudiante de Ciberseguridad e Ingeniería Informática
 
 🎓 **Apasionado por crear experiencias web seguras y modernas**
 
